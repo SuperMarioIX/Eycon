@@ -1,6 +1,6 @@
 # Eycon website
 
-Static website, no build step or dependencies required.
+Static website, no build step or dependencies required. huita
 
 ## GitHub + Cloudflare Workers
 
